@@ -14,6 +14,7 @@ Usage
 ---
 	$ make container
 	$ make run
+	$ source ~/.awsrc
 	$ aws help
 	
 [AWS CLI Usage](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-using.html)
